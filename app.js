@@ -1,2 +1,4 @@
-let input = document.querySelector('inputBOX');
-let button = document.queryAllSelector('buttons');
+let input = document.querySelectorbyId('inputBOX');
+let button = document.querySelectorAll('buttons');
+
+let string = "";
