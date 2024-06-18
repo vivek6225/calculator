@@ -34,6 +34,7 @@ body{
     font-size: 40px;
     text-align: right;
     cursor: pointer;
+    color: #ffffff;
     
 }
  input::placeholder{
@@ -54,10 +55,10 @@ button{
    
 }  
 .equalBtn{
-    background-color: rgb(197, 132, 10);
+    background-color: rgb(192, 151, 96);
 }
 .operator{
-    background-color: #aed094c9;
+    background-color: #71cb2cc9;
 }
 
 
